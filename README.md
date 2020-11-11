@@ -12,6 +12,17 @@ One approach is by analysing the correlation between two skills, and another the
 
 Determine the related and opposite skills in football players using correlation and Association Rule Learning
 
+## Basic Theory
+
+![CorrelationFormula](https://github.com/tefohulu/footballplayeranalysis/blob/main/Correlation.png)
+
+![MBAFormula](https://github.com/tefohulu/footballplayeranalysis/blob/main/Frequency.png)
+
+
+## Diagram Process
+
+![DiagramProcess](https://github.com/tefohulu/footballplayeranalysis/blob/main/Diagram%20Process.png)
+
 ## Conclusion
 
 * While the correlation analysis also considers the tendency of the data, the rules only considers the occurrence of the data
