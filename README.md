@@ -64,3 +64,7 @@ Determine the related and opposite skills in football players using correlation 
 - Expand with more set of data.
 
 - These analyses of football player skills can be used to build an expert-based system, where it can be determined the player who is the closest to a player, or a player who can be an anti to another player. 
+
+## Main Paper
+
+https://drive.google.com/drive/u/0/folders/1ksoWGauOY2mqnTCc0wraNZC49U60kEe9
