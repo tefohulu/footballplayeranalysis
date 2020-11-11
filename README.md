@@ -18,10 +18,28 @@ Determine the related and opposite skills in football players using correlation 
 
 ![MBAFormula](https://github.com/tefohulu/footballplayeranalysis/blob/main/Frequency.png)
 
-
 ## Diagram Process
 
 ![DiagramProcess](https://github.com/tefohulu/footballplayeranalysis/blob/main/Diagram%20Process.png)
+
+## Results
+
+![PositiveOutfieldCorrelation](https://github.com/tefohulu/footballplayeranalysis/blob/main/%2BCO.png)
+
+![NegativeOutfieldCorrelation](https://github.com/tefohulu/footballplayeranalysis/blob/main/-CO.png)
+
+![PositiveGoalkeeperCorrelation](https://github.com/tefohulu/footballplayeranalysis/blob/main/%2BCG.png)
+
+![NegativeGoalkeeperCorrelation](https://github.com/tefohulu/footballplayeranalysis/blob/main/-CG.png)
+
+![PositiveOutfieldRules](https://github.com/tefohulu/footballplayeranalysis/blob/main/%2BRO.png)
+
+![NegativeOutfieldRules](https://github.com/tefohulu/footballplayeranalysis/blob/main/-RO.png)
+
+![PositiveGoalkeeperRules](https://github.com/tefohulu/footballplayeranalysis/blob/main/%2BRG.png)
+
+![NegativeGoalkeeperRules](https://github.com/tefohulu/footballplayeranalysis/blob/main/-RG.png)
+
 
 ## Conclusion
 
@@ -34,7 +52,6 @@ Determine the related and opposite skills in football players using correlation 
 * The total of relations based on correlation analysis given on outfield players are 9 for strong positive and 10 for strong negative. For the goalkeepers, there are 10 strong positive and 6 strong negative. The total of relations based on rules analysis given on outfield players are 6 for strong positive and 10 for strong negative. For the goalkeepers, there are 1 strong positive and 3 strong negative.
 
 * The attributes are distributed quite equally on both correlation and rules analysis, showing that there is no strongest skill that is dominant enough on the dataset. However, this did not apply on strong negative correlations on goalkeepers using correlation approach, where temperament dominates almost all the rules.
-
 
 ## Suggestions
 
